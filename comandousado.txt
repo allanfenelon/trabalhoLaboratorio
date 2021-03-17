@@ -1,0 +1,1 @@
+curl -l https://api.github.com/repos/{owner}/{repositório}/pulls?state=closed | grep "login" | sed 's/"login"://g' |sed 's/[" ,   ]//g'| sort |tail -n 200| uniq -c| sort -t: -k1 -nr | sed 's/$/,/' | awk '{ print $2  $1}' >c_git.csv
