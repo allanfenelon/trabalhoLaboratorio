@@ -1,0 +1,29 @@
+Linguagem c
+github.com/repos/netdata/netdata/ 
+https://github.com/redis/redis  
+https://github.com/torvalds/linux 
+https://github.com/git/git 
+
+Linguagem JAVA
+https://github.com/MisterBooo/LeetCodeAnimation   
+https://github.com/spring-projects/spring-boot    
+https://github.com/ReactiveX/RxJava               
+https://github.com/spring-projects/spring-framework 
+
+Linguagem PYthon
+https://github.com/donnemartin/system-design-primer  
+https://github.com/public-apis/public-apis         
+https://github.com/vinta/awesome-python      
+https://github.com/nvbn/thefuck           
+
+Linguagem Ruby
+https://github.com/rails/rails     
+https://github.com/jekyll/jekyll    
+https://github.com/fastlane/fastlane  
+https://github.com/freeCodeCamp/devdocs 
+
+Linguagem Javascript
+https://github.com/freeCodeCamp/freeCodeCamp   
+https://github.com/facebook/react    
+https://github.com/twbs/bootstrap 
+https://github.com/d3/d3
